@@ -1,0 +1,70 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1606486544554-164d98da4889?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80);
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+  }
+  
+  h1, h2, h3, p{
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+  
+  }
+  
+  .teahead {
+    margin-bottom: 7px;
+  }
+  .sub {
+    font-style: italic;
+    text-align: center;
+  }
+  
+  .item p {
+    display: inline-block;
+    margin: 5px 0;
+    font-size: 18px;
+  }
+  
+  .flavor {
+    width: 50%;
+    text-align: left;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Oswald', sans-serif;
+  }
+  
+  .prices {
+    width: 25%;
+    text-align: right;
+    font-family: 'Oswald', sans-serif;
+  
+  }
+  
+  .price {
+    width: 50%;
+    text-align: right;
+    font-family: 'Oswald', sans-serif;
+  
+  }
+  
+  hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+  }
+  
+  a {
+    color: black;
+  }
+  
+  .icons{
+    text-align: center;
+  }
+  i {
+    padding: 10px;
+  }
